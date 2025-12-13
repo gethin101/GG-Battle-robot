@@ -8,6 +8,9 @@ Note: don't quite understand this, but I believe I will need to connect the **gr
 
 ## Components
 
+Here are the lists of components for my robot. I have also made a [full BOM](Components/Bill-Of-Materials.md)
+with links to all the parts.
+
 **List of components for remote:**
 
 - Raspberry pi pico 2 WH
