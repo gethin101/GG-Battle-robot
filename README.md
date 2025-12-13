@@ -10,7 +10,7 @@ Note: don't quite understand this, but I believe I will need to connect the **gr
 
 **List of components for remote:**
 
-- Raspberry pi pico
+- Raspberry pi pico 2 WH
 - Joystick module
 - 433 MHz transmitter
 - 2xAA Battery pack
