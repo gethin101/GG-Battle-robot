@@ -1,6 +1,6 @@
 # Robot wars inspired robot
 
-Here is my design for my custom fighter robot. I am going to create it using a raspberry pi pico, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another raspberry pi pico & a joystick module. The main axe weapon and chassis will be 3d printed in PLA. It will be powered by AA batteries and I think the actual robot will be connected using a breadboard & jumper wires, but I want to experiment with a custom PCB for my remote.
+Here is my design for my custom fighter robot. I am going to create it using a Raspberry pi pico, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another raspberry pi pico & a joystick module. The main axe weapon and chassis will be 3d printed in PLA. It will be powered by AA batteries and I think the actual robot will be connected using a breadboard & jumper wires, but I want to experiment with a custom PCB for my remote.
 
 ## Components
 
@@ -18,9 +18,9 @@ Here is my design for my custom fighter robot. I am going to create it using a r
 **List of components for robot:**
 
 - Raspberry pi pico 2 WH
-- 433 MHz reciever
+- 433 MHz receiver
 - 2x L298N motor drivers
-- 4x TT motors
+- 4x TT motors (raw voltage from L298Ns)
 - Metal-geared servo motor
 - 6xAA battery pack
 - Breadboard
