@@ -55,5 +55,6 @@ with links to all the parts.
 
 
 ## 📝 License
-This project is open-source under the MIT License, was designed during the Hackclub Blueprint project and was created by [@Gethin101](github.com/gethin101)
+This project is open-source under the MIT License, was designed during the Hackclub Blueprint project and was created by [@gethin101](https://github.com/gethin101)
+
 
