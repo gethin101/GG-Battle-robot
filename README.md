@@ -6,6 +6,7 @@ It will be powered by AA batteries, the actual robot will be connected using a b
 
 **Note:** don't quite understand this, but I believe I will need to connect the **grounds** on either side together so they have the same reference point?
 
+---
 ## Components
 
 Here are the lists of components for my robot. I have also made a [full BOM](Components/Bill-Of-Materials.md)
@@ -36,3 +37,12 @@ with links to all the parts.
 - 5V buck converter
 
 **I believe my project will cost around £100 so I reckon it will be Tier 3**
+
+---
+
+## CircuitPython firmware
+
+- I will need to flash a CircuitPython .uf2 onto my picos
+- Install circuitpython libraries .mpys
+- Upload the different code.pys to my picos
+- Test the firmwares are working
