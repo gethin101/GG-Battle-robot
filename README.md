@@ -52,3 +52,8 @@ with links to all the parts.
 - Install circuitpython libraries .mpys
 - Upload the different code.pys to my picos
 - Test the firmwares are working
+
+
+## 📝 License
+This project is open-source under the MIT License, was designed during the Hackclub Blueprint project and was created by [@Gethin101](github.com/gethin101)
+
