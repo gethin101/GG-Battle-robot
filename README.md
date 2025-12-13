@@ -1,6 +1,6 @@
 # Gethin's robot wars inspired robot
 
-Here is my design for my custom fighter robot. I am going to create it using a Raspberry pi pico, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another raspberry pi pico, a joystick module and extra control buttons. The main axe weapon and chassis will be 3d printed in PLA.
+Here is my design for my custom robot wars inspired battle robot. I am going to create it using a Raspberry pi pico, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another raspberry pi pico, a joystick module and extra control buttons. The main axe weapon and chassis will be 3d printed in PLA.
 
 It will be powered by AA batteries, the actual robot will be connected using a breadboard & jumper wires, but I want to experiment with a custom PCB for my remote. I will design the PCB in KiCad, also with female sockets so I can remove modules from the remote.
 
