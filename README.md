@@ -34,3 +34,5 @@ with links to all the parts.
 - Jumper wires for wiring
 - PLA axe and chassis
 - 5V buck converter
+
+**I believe my project will cost around £100 so I reckon it will be Tier 3**
