@@ -10,7 +10,8 @@ It will be powered by AA batteries, the actual robot will be connected using a b
 
 ## Control
 
-I will control my robot through the use of the PCB remote which will be in a PLA remote case. There will be a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. I will also add a few buttons on the remote, which will control the servo motor which moves the PLA axe weapon and I may make a few of the buttons carry out pre-programmed movement plans or I might add a speaker to the robot and make the buttons send signals to play audio - not sure yet
+I will control my robot through the use of the PCB remote which will be in a PLA remote case. There will be a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. 
+I will also add a few buttons on the remote, which will control the servo motor which moves the PLA axe weapon and I may make a few of the buttons carry out pre-programmed movement plans or I might add a speaker to the robot and make the buttons send signals to play audio - not sure yet
 
 ---
 ## Components
