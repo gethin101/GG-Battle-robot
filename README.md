@@ -62,7 +62,8 @@ Remote PCB idea:
 - Solder on battery pack wires
 
 First rough idea:
-<img src="Images/remote_design.png" alt="Alt text" width="300"/>
+
+<img src="Images/remote_design.png" alt="Alt text" width="700"/>
 
 
 ---
