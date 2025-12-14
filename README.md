@@ -18,7 +18,7 @@ I originally wanted a single servo axe weapon on the top but I have instead deci
 
 I will control my robot through the use of the PCB remote which will be in a PLA remote case. There will be a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. 
 
-I will also add a few buttons on the remote, which will control the servo motor which moves the PLA axe weapon and I may make a few of the buttons carry out pre-programmed movement plans or I might add a speaker to the robot and make the buttons send signals to play audio - not sure yet
+I will also add a few buttons on the remote, which will control the servo motors which move the PLA axe weapons and I will also add a few buttons that will carry out pre-programmed movement plans, display different info on the robot's screen and play sound effects through the speakers.
 
 ---
 ## Components
