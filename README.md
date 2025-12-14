@@ -10,6 +10,8 @@ It will be powered by AA batteries, the actual robot will be connected using a b
 
 **Note:** don't quite understand this, but I believe I will need to connect the **grounds** on either side together so they have the same reference point?
 
+I originally wanted a single servo axe weapon on the top but I have decided that I want 2 axes on either side of the robot instead.
+
 ---
 
 ## Control
