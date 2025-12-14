@@ -2,7 +2,7 @@
 
 Here is my design for my custom robot wars inspired battle robot. I am going to create it using a Raspberry pi pico 2 WH, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another Raspberry pi pico 2WH, a joystick module and extra control buttons. The main axe weapon and chassis will be 3d printed in PLA.
 
-I will also use a 1.8" SPI LCD Display  for the robot to display information on the front of the robot. It will be powered by being plugged into the breadboard in the robot using the pins.
+I will also use a 1.8" SPI LCD Display for the robot to display information on the front of the robot and SK6812 MINI-E RGB leds for the back of the robot. These will both be powered by being plugged into the breadboard in the robot using the pins and jumper wires.
 
 It will be powered by AA batteries, the actual robot will be connected using a breadboard & jumper wires, but I want to experiment with a custom PCB for my remote. I will design the PCB in KiCad, also with female sockets so I can remove modules from the remote.
 
@@ -36,7 +36,8 @@ with links to all the parts.
 **List of components for robot:**
 
 - Raspberry pi pico 2WH
-- 1.8" SPI LCD Display 
+- 1.8" SPI LCD Display
+- SK6812 MINI-E RGBs
 - 433 MHz receiver
 - 2x L298N motor drivers
 - 4x TT motors (raw voltage from L298Ns)
