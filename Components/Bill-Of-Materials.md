@@ -1,5 +1,7 @@
 ## Remote Components
 
+**Totals around £25-30 but not counting in the PCB & 3D print costs - also there are some temporary deals going on so it may be a bit more when I actually order the components**
+
 | Name | Use | Link | Price |
 |------|-----|------|-------|
 | Raspberry Pi Pico H | Will be removable from remote | [link](https://www.aliexpress.com/item/1005008058623788.html?spm=a2g0o.productlist.main.4.5c7a5eeaoJ2jzl&aem_p4p_detail=20251214014300216603386448540002080958&algo_pvid=27effe36-c41e-4a81-a26f-5351aa5fa4cb&algo_exp_id=27effe36-c41e-4a81-a26f-5351aa5fa4cb-3&pdp_ext_f=%7B%22order%22%3A%22687%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.64%210.79%21%21%2142.53%217.24%21%4021038df617657053799416081e42e8%2112000043493583247%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=ubKw5CTUinE8&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008058623788%7C_p_origin_prod%3A&search_p4p_id=20251214014300216603386448540002080958_1) | £1.62 |
