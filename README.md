@@ -54,6 +54,8 @@ with links to all the parts.
 
 **I believe my project will cost around £100 so I reckon it will be Tier 3**
 
+---
+
 Remote PCB idea:
 - Female headers for the pico and the joystick so they are removable
 - Solder on 433 MHz transmitter
