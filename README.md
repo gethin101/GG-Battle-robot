@@ -47,11 +47,12 @@ with links to all the parts.
 - 433 MHz receiver
 - 2x L298N motor drivers
 - 4x TT motors (raw voltage from L298Ns)
-- Metal-geared servo motor
+- 2x servo motor
 - 6xAA battery pack
 - Breadboard
 - Jumper wires for wiring
-- PLA axe and chassis
+- 2x PLA axe
+- 3D printed chassis
 - 5V buck converter
 
 **I believe my project will cost around £100 so I reckon it will be Tier 3**
