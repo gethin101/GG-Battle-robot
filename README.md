@@ -54,6 +54,17 @@ with links to all the parts.
 
 **I believe my project will cost around £100 so I reckon it will be Tier 3**
 
+Remote PCB idea:
+- Female headers for the pico and the joystick so they are removable
+- Solder on 433 MHz transmitter
+- Solder on Boost converter
+- Solder on tac buttons
+- Solder on battery pack wires
+
+First rough idea:
+<img src="Images/remote_design.png" alt="Alt text" width="300"/>
+
+
 ---
 
 ## CircuitPython firmware
