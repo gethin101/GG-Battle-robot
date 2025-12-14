@@ -36,6 +36,7 @@ with links to all the parts.
 **List of components for robot:**
 
 - Raspberry pi pico 2WH
+- 1.8" SPI LCD Display 
 - 433 MHz receiver
 - 2x L298N motor drivers
 - 4x TT motors (raw voltage from L298Ns)
