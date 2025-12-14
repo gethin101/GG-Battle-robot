@@ -1,28 +1,29 @@
 ## Remote Components
 
-| Name | Use | Link |
-|------|-----|------|
-| Raspberry Pi Pico 2 WH | Will be removable from remote | [link]() |
-| Joystick module | Used to control the robot movement | [link]() |
-| 433 MHz transmitter | Sends control signals to robot | [link]() |
-| 2×AA battery pack | Powers the remote | [link]() |
-| Custom PCB | Will have the joystick, transmitter, Pico & boost converter | [link]() |
-| Buttons | Will prob be used for weapon control, maybe some audio | [link]() |
-| Sockets/headers | Allow me to remove pico & joystick | [link]() |
-| 5V boost converter | Steps up 3V from AA pack to 5V | [link]() |
+| Name | Use | Link | Price |
+|------|-----|------|-------|
+| Raspberry Pi Pico H | Will be removable from remote | [link](https://www.aliexpress.com/item/1005008058623788.html?spm=a2g0o.productlist.main.4.5c7a5eeaoJ2jzl&aem_p4p_detail=20251214014300216603386448540002080958&algo_pvid=27effe36-c41e-4a81-a26f-5351aa5fa4cb&algo_exp_id=27effe36-c41e-4a81-a26f-5351aa5fa4cb-3&pdp_ext_f=%7B%22order%22%3A%22687%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.64%210.79%21%21%2142.53%217.24%21%4021038df617657053799416081e42e8%2112000043493583247%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=ubKw5CTUinE8&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008058623788%7C_p_origin_prod%3A&search_p4p_id=20251214014300216603386448540002080958_1) | £1.62 |
+| Joystick module | Used to control the robot movement | [link](https://www.aliexpress.com/item/1005010212257095.html?spm=a2g0o.productlist.main.4.3be6196dzmvb2P&aem_p4p_detail=202512140144432788365537629100002190789&algo_pvid=7537bd39-dc4c-41d7-a683-5eaad0104159&algo_exp_id=7537bd39-dc4c-41d7-a683-5eaad0104159-3&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.66%210.45%21%21%216.01%214.09%21%402103956b17657054835868351e8e9a%2112000051540910813%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=QsdQjQrewpMZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010212257095%7C_p_origin_prod%3A&search_p4p_id=202512140144432788365537629100002190789_1) | £0.45 |
+| 433 MHz transmitter | Sends control signals to robot | [link](https://www.aliexpress.com/item/1005007239689710.html?spm=a2g0o.productlist.main.25.562e90dbxFI1Xr&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005007239689710%7C_p_origin_prod%3A&algo_pvid=252a526b-9aaa-430f-ae86-64bb34407fc3&algo_exp_id=252a526b-9aaa-430f-ae86-64bb34407fc3&pdp_ext_f=%7B%22order%22%3A%22207%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.67%210.76%21%21%2142.84%216.96%21%40211b430817657055324604445eab2a%2112000039917800063%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876) | £0.76 |
+| 2×AA battery pack | Powers the remote | [link](https://www.aliexpress.com/item/1005001750984235.html?spm=a2g0o.productlist.main.7.5f45201ekH1azH&algo_pvid=c7aa2370-6232-4feb-b52e-d8dd40f1c501&algo_exp_id=c7aa2370-6232-4feb-b52e-d8dd40f1c501-6&pdp_ext_f=%7B%22order%22%3A%22386%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.74%210.74%21%21%210.96%210.96%21%402103956b17657058090712988e8e9c%2112000017429460644%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=GHC6WV3RikNM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005001750984235%7C_p_origin_prod%3A) | £0.74 |
+| Custom PCB | Will have the joystick, transmitter, Pico & boost converter | [Custom](jlcpcb.com) |
+| Buttons | Will prob be used for weapon control, maybe some audio (6mm) | [link](https://www.aliexpress.com/item/4000679965373.html?spm=a2g0o.productlist.main.24.34de6a10tJucSQ&aem_p4p_detail=202512140153226705657956557200001805498&algo_pvid=8ef11b08-4b54-408f-991d-6d32352fc2ae&algo_exp_id=8ef11b08-4b54-408f-991d-6d32352fc2ae-23&pdp_ext_f=%7B%22order%22%3A%2223%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.57%210.54%21%21%210.74%210.70%21%402103985c17657060025018669ea791%2110000005895083863%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=xvVFAIIpCMiP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000679965373%7C_p_origin_prod%3A&search_p4p_id=202512140153226705657956557200001805498_6) |
+| Sockets 1 | Allow me to remove pico (20 pin) | [link](https://www.aliexpress.com/item/1005003610333849.html?spm=a2g0o.productlist.main.3.5ce4uggVuggVut&algo_pvid=c65e06cc-2049-427d-bc44-bbd16cd0967d&algo_exp_id=c65e06cc-2049-427d-bc44-bbd16cd0967d-2&pdp_ext_f=%7B%22order%22%3A%221124%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%212.29%210.76%21%21%212.98%211.00%21%402103856417657062010245856e1c04%2112000026601252522%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=EKxEHOcWPDT9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003610333849%7C_p_origin_prod%3A) |
+| Sockets 2 | Allow me to remove joystick (1x5 pin) | [link](https://www.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.1.5761aM6UaM6Uxw&algo_pvid=2bd531ec-994e-47f2-9a26-9f6eedbe194f&algo_exp_id=2bd531ec-994e-47f2-9a26-9f6eedbe194f-0&pdp_ext_f=%7B%22order%22%3A%223827%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.79%210.76%21%21%211.03%210.99%21%40210385bb17657063152487777ef3e5%2110000015275671641%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=nHKqqtqvQU2q&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A) |
+| 5V boost converter | Steps up 3V from AA pack to 5V | [link](https://www.aliexpress.com/item/1005006361814667.html?spm=a2g0o.productlist.main.1.498c67a1lusicw&algo_pvid=8f5e5ceb-3947-433a-adec-e8485a188acb&algo_exp_id=8f5e5ceb-3947-433a-adec-e8485a188acb-0&pdp_ext_f=%7B%22order%22%3A%224508%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.58%210.58%21%21%215.33%215.33%21%4021038e1e17657065645817359e1dc2%2112000036895232308%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=MEA3qFzpW1eG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006361814667%7C_p_origin_prod%3A) |
 
 ---
 
 ## Robot Components
 
-| Name | Use | Link |
-|------|-----|------|
-| Raspberry Pi Pico 2 WH | Microcontroller for robot | [link]() |
+| Name | Use | Link | Price |
+|------|-----|------|-------|
+| Raspberry Pi Pico H | Microcontroller for robot | [link]() |
 | 433 MHz receiver | Receives signals from remote | [link]() |
 | 2× L298N motor drivers | For the TT motors | [link]() |
 | 4× TT motors | Motors for wheels | [link]() |
 | Metal‑geared servo | Moves the PLA axe weapon | [link]() |
-| 6×AA battery pack | Powers motors and components | [link]() |
+| 6×AA battery pack | Powers motors and components | [link](https://www.aliexpress.com/item/1005004798582970.html?spm=a2g0o.productlist.main.15.77f69qL39qL3nQ&algo_pvid=3f1920bf-860a-4bd4-a8ee-f1586ce3c18d&algo_exp_id=3f1920bf-860a-4bd4-a8ee-f1586ce3c18d-14&pdp_ext_f=%7B%22order%22%3A%22171%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.89%210.76%21%21%211.16%210.99%21%402103917f17657056725471204e92b4%2112000030526396382%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=YCoU44tINMvs&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005004798582970%7C_p_origin_prod%3A) | £0.76 |
 | Breadboard | Where everything will be connected | [link]() |
 | Jumper wires | Connect Pico, drivers, servo & rf reciever | [link]() |
 | PLA axe & chassis | 3D‑printed in pla | [link]() |
