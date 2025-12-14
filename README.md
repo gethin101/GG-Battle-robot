@@ -70,6 +70,11 @@ First rough idea for the remote PCB:
 
 <img src="Images/remote_design.png" alt="Alt text" width="700"/>
 
+---
+
+First 3D fusion model of robot chassis:
+
+<img src="Images/robot_fusion1.png" alt="Alt text" width="700"/>
 
 ---
 
