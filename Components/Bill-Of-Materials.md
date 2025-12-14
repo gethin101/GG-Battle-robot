@@ -1,6 +1,6 @@
 ## Remote Components
 
-**Totals around £25-30 but not counting in the PCB & 3D print costs - also there are some temporary deals going on so it may be a bit more when I actually order the components**
+**Totals around £40 but not counting in the PCB & 3D print costs - also there are some temporary deals going on so it may be a bit more when I actually order the components**
 
 | Name | Use | Link | Price |
 |------|-----|------|-------|
