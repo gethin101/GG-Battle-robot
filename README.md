@@ -33,8 +33,8 @@ with links to all the parts.
 - 433 MHz transmitter
 - 2xAA Battery pack
 - Custom PCB for joystick, transmitter, microcontroller, battery input & boost converter
-- A few buttons for other controls e.g. weapon (possibly)
-- I think I will need sockets on my PCB for the microcontroller & joystick
+- A few buttons for display, audio & specific movement plans
+- Female sockets for component removal
 - 5V boost converter
 
 **List of components for robot:**
