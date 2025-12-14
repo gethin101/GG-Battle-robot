@@ -40,6 +40,8 @@ with links to all the parts.
 - Raspberry pi pico 2WH
 - 1.8" SPI LCD Display
 - SK6812 MINI-E RGBs
+- PAM8302 amplifier board
+- 8Ω 2W speaker
 - 433 MHz receiver
 - 2x L298N motor drivers
 - 4x TT motors (raw voltage from L298Ns)
