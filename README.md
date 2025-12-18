@@ -15,13 +15,6 @@ My weapon system consists of a servo motor embedded on the underside of the top 
 
 ---
 
-## Control
-
-I will control my robot through the use of the PCB remote which will be in a PLA remote case. There will be a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. 
-
-I will also add a few buttons on the remote, which will control the servo motors which move the PLA axe weapons and I will also add a few buttons that will carry out pre-programmed movement plans, display different info on the robot's screen and play sound effects through the speakers.
-
----
 ## Inspiration
 I wanted to make this project to help me learn CAD design through Fusion 360, PCB design in KiCad and get me into the world of electronics and embedded systems.
 I designed my robot with inspiration from Thor in Robot Wars with the axe weapon idea and Apollo with the general shape and aesthetics
@@ -29,7 +22,16 @@ I designed my robot with inspiration from Thor in Robot Wars with the axe weapon
 <img src="Images/thor_robot.png" alt="Alt text" width="500"/>
 <img src="Images/apollo_robot.png" alt="Alt text" width="500"/>
 
+---
 
+## Control
+
+I will control my robot through the use of the PCB remote which will be in a PLA remote case. There will be a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. 
+
+I will also add a few buttons on the remote, which will control the servo motors which move the PLA axe weapons and I will also add a few buttons that will carry out pre-programmed movement plans, display different info on the robot's screen and play sound effects through the speakers.
+
+---
+---
 ---
 ## Components
 
