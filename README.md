@@ -30,8 +30,7 @@ I will control my robot through the use of the PCB remote which will be in a PLA
 
 I will also add a few buttons on the remote, which will control the servo motors which move the PLA axe weapons and I will also add a few buttons that will carry out pre-programmed movement plans, display different info on the robot's screen and play sound effects through the speakers.
 
----
----
+
 ---
 ## Components
 
