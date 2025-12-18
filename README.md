@@ -77,7 +77,7 @@ Remote PCB design:
 
 First 3D fusion model of robot chassis:
 
-I originally designed it like this with 2 axes and patterns but have changed to the version below instead.
+I originally designed it like this with 2 axe weapons and patterns but have changed to the version below instead.
 
 <img src="Images/robot_fusion1.png" alt="Alt text" width="300"/>
 
