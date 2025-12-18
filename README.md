@@ -55,8 +55,9 @@ with links to all the parts.
 - PLA axe
 - 3D printed chassis
 - 5V buck converter
+- Magnets for top & bottom chassis connection
 
-**I believe my project will cost around £70 so I reckon it will be Tier 3**
+**I believe my project will cost around £70 so I reckon it should be Tier 3**
 
 ---
 
