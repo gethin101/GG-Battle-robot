@@ -22,6 +22,15 @@ I will control my robot through the use of the PCB remote which will be in a PLA
 I will also add a few buttons on the remote, which will control the servo motors which move the PLA axe weapons and I will also add a few buttons that will carry out pre-programmed movement plans, display different info on the robot's screen and play sound effects through the speakers.
 
 ---
+## Inspiration
+I wanted to make this project to help me learn CAD design through Fusion 360, PCB design in KiCad and get me into the world of electronics and embedded systems.
+I designed my robot with inspiration from Thor in Robot Wars with the axe weapon idea and Apollo with the general shape and aesthetics
+
+<img src="Images/thor_robot.png" alt="Alt text" width="500"/>
+<img src="Images/apollo_robot.png" alt="Alt text" width="500"/>
+
+
+---
 ## Components
 
 Here are the lists of components for my robot. I have also made a [full BOM](Components/Bill-Of-Materials.md)
