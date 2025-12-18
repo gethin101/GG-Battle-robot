@@ -19,8 +19,8 @@ My weapon system consists of a servo motor embedded on the underside of the top 
 I wanted to make this project to help me learn CAD design through Fusion 360, PCB design in KiCad and get me into the world of electronics and embedded systems.
 I designed my robot with inspiration from Thor in Robot Wars with the axe weapon idea and Apollo with the general shape and aesthetics
 
-<img src="Images/thor_robot.png" alt="Alt text" width="500"/>
-<img src="Images/apollo_robot.png" alt="Alt text" width="500"/>
+<img src="Images/thor_robot.png" alt="Alt text" width="300"/>
+<img src="Images/apollo_robot.png" alt="Alt text" width="300"/>
 
 ---
 
