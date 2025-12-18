@@ -82,10 +82,14 @@ This version is the final concept and the files are in **Images/**
 
 <img src="Images/robot_design_image.png" alt="Alt text" width="700"/>
 
+
 Rendered robot with textures
+
 <img src="Images/robot_rendered.png" alt="Alt text" width="700"/>
 
+
 Base bottom of the robot
+
 <img src="Images/robot_base_image.png" alt="Alt text" width="700"/>
 
 ---
