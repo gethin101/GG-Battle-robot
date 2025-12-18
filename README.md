@@ -66,7 +66,8 @@ Remote PCB idea:
 - Solder on tac buttons
 - Solder on battery pack wires
 
-First rough idea for the remote PCB:
+Remote PCB design:
+(I will create the actual PCB once I have the parts and the dimensions & footprints, etc)
 
 <img src="Images/remote_design.png" alt="Alt text" width="700"/>
 
