@@ -74,7 +74,11 @@ First rough idea for the remote PCB:
 
 First 3D fusion model of robot chassis:
 
+I originally designed it like this but have changed to this version instead.
 <img src="Images/robot_fusion1.png" alt="Alt text" width="700"/>
+
+This version is the latest and the files are in **Images/**
+<img src="Images/robot_design_image.png" alt="Alt text" width="700"/>
 
 ---
 
