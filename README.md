@@ -1,6 +1,7 @@
 # Gethin's robot wars inspired robot
+This is my custom Robot Wars inspired battle robot with a servo-driven axe weapon, wireless radio frequency remote control, LCD display, RGB lights, and audio sound effects. My robot is controlled by a custom PCB RF remote using a Raspberry Pi Pico 2 WH microcontroller running CircuitPython and the chassis and axe will be 3D printed in PLA.
 
-Here is my design for my custom robot wars inspired battle robot. I am going to create it using a Raspberry pi pico 2 WH, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another Raspberry pi pico 2 WH, a joystick module and extra control buttons. The 2 main axe weapons and chassis will be 3d printed in PLA.
+I am going to create it using a Raspberry pi pico 2 WH, TT motors, L298N motor drivers, and a servo motor. It will be controlled by a 433mhz radio frequency remote, another Raspberry pi pico 2 WH, a joystick module and extra control buttons. The 2 main axe weapons and chassis will be 3d printed in PLA.
 
 I will also use a 1.8" SPI LCD Display for the robot to display information on the front of the robot and SK6812 MINI-E RGB leds for the back of the robot. These will both be powered by being plugged into the breadboard in the robot using the pins and jumper wires.
 
