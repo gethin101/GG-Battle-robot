@@ -55,7 +55,7 @@ with links to all the parts.
 - 3D printed chassis
 - 5V buck converter
 
-**I believe my project will cost around £100 so I reckon it will be Tier 3**
+**I believe my project will cost around £70 so I reckon it will be Tier 3**
 
 ---
 
