@@ -99,7 +99,7 @@ This version is the final concept and the files are in **Images/**
 
 Rendered robot with textures
 
-<img src="Images/robot_rendered.png" alt="Alt text" width="700"/>
+<img src="Images/robot_components.png" alt="Alt text" width="700"/>
 
 
 Base bottom of the robot
