@@ -112,6 +112,10 @@ Base bottom of the robot
 
 ---
 
+**I will make different iterations and designs for the chassis another time but this is my first design for blueprint**
+
+---
+
 ## CircuitPython firmware
 
 - I will need to flash a CircuitPython .uf2 onto my picos
