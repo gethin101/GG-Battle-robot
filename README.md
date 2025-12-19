@@ -97,9 +97,13 @@ This version is the final concept and the files are in **Images/**
 <img src="Images/robot_design_image.png" alt="Alt text" width="700"/>
 
 
-Rendered robot with textures
+Rendered robot with textures applied & motors & wheels components
 
 <img src="Images/robot_components.png" alt="Alt text" width="700"/>
+
+Showing servo motor setup with axe
+
+<img src="Images/robot_components_exposed.png" alt="Alt text" width="700"/>
 
 
 Base bottom of the robot
