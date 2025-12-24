@@ -2,6 +2,8 @@
 
 **Totals around £50 but not counting in the PCB & 3D print costs - also there are some temporary deals going on so it may be a bit more when I actually order the components**
 
+**I reckon the PCB will cost aroud £25 but I haven't designed it yet**
+
 | Name | Use | Link | Price |
 |------|-----|------|-------|
 | Raspberry Pi Pico 2 WH | Will be removable from remote | [link](https://thepihut.com/products/raspberry-pi-pico-2-w?variant=54063378760065) | £7.70 |
