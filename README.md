@@ -87,19 +87,21 @@ with links to all the parts.
 
 **Solder:**
 - Battery wires to copper pad
-- Boost converter
+- Pico through hole
 - Buttons
-- Joystick
-- Pico
 
 **Headers:**
 - RF module
+- Joystick
+- Boost converter
 
 
 Remote PCB design:
-(I will create the actual PCB once I have the parts and the dimensions & footprints, etc)
+
+**This was my first PCB design before I made it in KiCad**
 
 <img src="Images/remote_design.png" alt="Alt text" width="700"/>
+
 
 ---
 
