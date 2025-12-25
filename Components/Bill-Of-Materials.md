@@ -1,6 +1,6 @@
 ## Remote Components
 
-**Totals £55.21 but not counting in the PCB, temporary deals & delivery costs**
+**Totals £56.41 but not counting in the PCB, temporary deals & delivery costs**
 
 **I reckon the PCB will cost aroud £10**
 
@@ -13,10 +13,10 @@
 | Custom PCB | Will have the joystick, transmitter, Pico & boost converter | [Custom](https://jlcpcb.com/) | JLCPCB |
 | Buttons | Will prob be used for weapon control, maybe some audio (6mm) | [link](https://www.aliexpress.com/item/4000679965373.html?spm=a2g0o.productlist.main.24.34de6a10tJucSQ&aem_p4p_detail=202512140153226705657956557200001805498&algo_pvid=8ef11b08-4b54-408f-991d-6d32352fc2ae&algo_exp_id=8ef11b08-4b54-408f-991d-6d32352fc2ae-23&pdp_ext_f=%7B%22order%22%3A%2223%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.57%210.54%21%21%210.74%210.70%21%402103985c17657060025018669ea791%2110000005895083863%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=xvVFAIIpCMiP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4000679965373%7C_p_origin_prod%3A&search_p4p_id=202512140153226705657956557200001805498_6) | £0.62 |
 | Sockets 1 | Allow me to remove pico (20 pin) | [link](https://www.aliexpress.com/item/1005003610333849.html?spm=a2g0o.productlist.main.3.5ce4uggVuggVut&algo_pvid=c65e06cc-2049-427d-bc44-bbd16cd0967d&algo_exp_id=c65e06cc-2049-427d-bc44-bbd16cd0967d-2&pdp_ext_f=%7B%22order%22%3A%221124%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%212.29%210.76%21%21%212.98%211.00%21%402103856417657062010245856e1c04%2112000026601252522%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=EKxEHOcWPDT9&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003610333849%7C_p_origin_prod%3A) | £0.76 |
-| Sockets 2 | Allow me to remove RF module (1x4 pin) | [link](https://www.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.1.5761aM6UaM6Uxw&algo_pvid=2bd531ec-994e-47f2-9a26-9f6eedbe194f&algo_exp_id=2bd531ec-994e-47f2-9a26-9f6eedbe194f-0&pdp_ext_f=%7B%22order%22%3A%223827%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.79%210.76%21%21%211.03%210.99%21%40210385bb17657063152487777ef3e5%2110000015275671641%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=nHKqqtqvQU2q&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A) | £0.76 |
+| Sockets 2 | (1x4 pin) & (1x5 pin)| [link](https://www.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.1.5761aM6UaM6Uxw&algo_pvid=2bd531ec-994e-47f2-9a26-9f6eedbe194f&algo_exp_id=2bd531ec-994e-47f2-9a26-9f6eedbe194f-0&pdp_ext_f=%7B%22order%22%3A%223827%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.79%210.76%21%21%211.03%210.99%21%40210385bb17657063152487777ef3e5%2110000015275671641%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=nHKqqtqvQU2q&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A) | £1.51 |
 | 5V boost converter | Steps up 3V from AA pack to 5V | [link](https://www.aliexpress.com/item/1005006361814667.html?spm=a2g0o.productlist.main.1.498c67a1lusicw&algo_pvid=8f5e5ceb-3947-433a-adec-e8485a188acb&algo_exp_id=8f5e5ceb-3947-433a-adec-e8485a188acb-0&pdp_ext_f=%7B%22order%22%3A%224508%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.58%210.58%21%21%215.33%215.33%21%4021038e1e17657065645817359e1dc2%2112000036895232308%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=MEA3qFzpW1eG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006361814667%7C_p_origin_prod%3A) | £0.58 |
 
-Total = £12.37
+Total = £13.37
 
 ---
 
@@ -40,6 +40,6 @@ Total = £12.37
 | Magnets to connect lid and main chassis | 8mm x 3mm option - need holes in chassis| [Link](https://www.aliexpress.com/item/1005010051950544.html?spm=a2g0o.productlist.main.1.4847Z0xSZ0xSH4&algo_pvid=99225f7b-079f-4468-96c0-59d67f53ad0e&algo_exp_id=99225f7b-079f-4468-96c0-59d67f53ad0e-0&pdp_ext_f=%7B%22order%22%3A%221602%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.81%210.76%21%21%216.25%210.99%21%402103868817657145834426542e54ec%2112000051005583972%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=R6aWCGBTA9md&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010051950544%7C_p_origin_prod%3A) | £0.76 |
 | 5V buck converter | Steps down 9V battery to 5V | [link](https://www.aliexpress.com/item/1005005305772411.html?spm=a2g0o.productlist.main.18.1069fc01oftGiw&algo_pvid=ee10d5a2-b60c-4dc4-b60c-70d15388bcf9&algo_exp_id=ee10d5a2-b60c-4dc4-b60c-70d15388bcf9-17&pdp_ext_f=%7B%22order%22%3A%22526%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.83%210.98%21%21%2144.28%218.99%21%402103892f17657072393293958e6668%2112000032565508626%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=kOtSSup0dITo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005305772411%7C_p_origin_prod%3A) | £0.98 |
 
-Total = £42.84
+Total = £43.04
 
-**Full total = £55.21** without PCB
+**Full total = £56.41** without PCB
