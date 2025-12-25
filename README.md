@@ -90,9 +90,9 @@ with links to all the parts.
 - Boost converter
 - Buttons
 - Joystick
+- Pico
 
 **Headers:**
-- Pico
 - RF module
 
 
