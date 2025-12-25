@@ -83,12 +83,17 @@ with links to all the parts.
 
 ---
 
-Remote PCB idea:
-- Female headers for the pico and the joystick so they are removable
-- Solder on 433 MHz transmitter
-- Solder on Boost converter
-- Solder on tac buttons
-- Solder on battery pack wires
+**Remote PCB:**
+Solder:
+- Battery wires to copper pad
+- Boost converter
+- Buttons
+- Joystick
+
+Headers:
+- Pico
+- RF module
+
 
 Remote PCB design:
 (I will create the actual PCB once I have the parts and the dimensions & footprints, etc)
