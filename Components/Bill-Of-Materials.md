@@ -2,7 +2,7 @@
 
 **Totals £55.21 but not counting in the PCB, temporary deals & delivery costs**
 
-**I reckon the PCB will cost aroud £20**
+**I reckon the PCB will cost aroud £10**
 
 | Name | Use | Link | Price |
 |------|-----|------|-------|
