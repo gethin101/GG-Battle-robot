@@ -40,6 +40,6 @@ Total = £13.15
 | Magnets to connect lid and main chassis | 8mm x 3mm option - need holes in chassis| [Link](https://www.aliexpress.com/item/1005010051950544.html?spm=a2g0o.productlist.main.1.4847Z0xSZ0xSH4&algo_pvid=99225f7b-079f-4468-96c0-59d67f53ad0e&algo_exp_id=99225f7b-079f-4468-96c0-59d67f53ad0e-0&pdp_ext_f=%7B%22order%22%3A%221602%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.81%210.76%21%21%216.25%210.99%21%402103868817657145834426542e54ec%2112000051005583972%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=R6aWCGBTA9md&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010051950544%7C_p_origin_prod%3A) | £0.76 |
 | 5V buck converter | Steps down 9V battery to 5V | [link](https://www.aliexpress.com/item/1005005305772411.html?spm=a2g0o.productlist.main.18.1069fc01oftGiw&algo_pvid=ee10d5a2-b60c-4dc4-b60c-70d15388bcf9&algo_exp_id=ee10d5a2-b60c-4dc4-b60c-70d15388bcf9-17&pdp_ext_f=%7B%22order%22%3A%22526%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.83%210.98%21%21%2144.28%218.99%21%402103892f17657072393293958e6668%2112000032565508626%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=kOtSSup0dITo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005305772411%7C_p_origin_prod%3A) | £1.50 |
 
-Total = £43.04
+Total = £42.78
 
-**Full total = £56.41** without PCB
+**Full total = £55.93** without PCB
