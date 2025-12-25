@@ -1,8 +1,8 @@
 ## Remote Components
 
-**Totals £55.59 but not counting in the PCB -  also there are some temporary deals going on so it may be a bit more when I actually order the components**
+**Totals £55.21 but not counting in the PCB, temporary deals & delivery costs**
 
-**I reckon the PCB will cost aroud £20 but I haven't designed it yet**
+**I reckon the PCB will cost aroud £20**
 
 | Name | Use | Link | Price |
 |------|-----|------|-------|
@@ -41,3 +41,5 @@ Total = £12.37
 | 5V buck converter | Steps down 9V battery to 5V | [link](https://www.aliexpress.com/item/1005005305772411.html?spm=a2g0o.productlist.main.18.1069fc01oftGiw&algo_pvid=ee10d5a2-b60c-4dc4-b60c-70d15388bcf9&algo_exp_id=ee10d5a2-b60c-4dc4-b60c-70d15388bcf9-17&pdp_ext_f=%7B%22order%22%3A%22526%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.83%210.98%21%21%2144.28%218.99%21%402103892f17657072393293958e6668%2112000032565508626%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=kOtSSup0dITo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005305772411%7C_p_origin_prod%3A) | £0.98 |
 
 Total = £42.84
+
+**Full total = £55.21** without PCB
