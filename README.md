@@ -83,14 +83,15 @@ with links to all the parts.
 
 ---
 
-**Remote PCB:**
-Solder:
+## **Remote PCB:**
+
+**Solder:**
 - Battery wires to copper pad
 - Boost converter
 - Buttons
 - Joystick
 
-Headers:
+**Headers:**
 - Pico
 - RF module
 
