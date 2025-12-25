@@ -16,6 +16,8 @@
 | Sockets 2 | Allow me to remove RF module (1x4 pin) | [link](https://www.aliexpress.com/item/4001198421663.html?spm=a2g0o.productlist.main.1.5761aM6UaM6Uxw&algo_pvid=2bd531ec-994e-47f2-9a26-9f6eedbe194f&algo_exp_id=2bd531ec-994e-47f2-9a26-9f6eedbe194f-0&pdp_ext_f=%7B%22order%22%3A%223827%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.79%210.76%21%21%211.03%210.99%21%40210385bb17657063152487777ef3e5%2110000015275671641%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=nHKqqtqvQU2q&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A4001198421663%7C_p_origin_prod%3A) | £0.76 |
 | 5V boost converter | Steps up 3V from AA pack to 5V | [link](https://www.aliexpress.com/item/1005006361814667.html?spm=a2g0o.productlist.main.1.498c67a1lusicw&algo_pvid=8f5e5ceb-3947-433a-adec-e8485a188acb&algo_exp_id=8f5e5ceb-3947-433a-adec-e8485a188acb-0&pdp_ext_f=%7B%22order%22%3A%224508%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.58%210.58%21%21%215.33%215.33%21%4021038e1e17657065645817359e1dc2%2112000036895232308%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=MEA3qFzpW1eG&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006361814667%7C_p_origin_prod%3A) | £0.58 |
 
+Total = £12.37
+
 ---
 
 ## Robot Components
