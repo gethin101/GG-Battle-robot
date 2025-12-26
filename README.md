@@ -52,6 +52,15 @@ Remote PCB design:
 
 <img src="Images/remote_design.png" alt="Alt text" width="700"/>
 
+I then designed my remote PCB in KiCad with first the schematic showing how all the components are connected
+
+<img src="Images/schem.png" alt="Alt text" width="600"/>
+
+And then I run the ERC checker and moved on to the PCB design where I routed the modules, confirmed final placements and learnt how to make a GND pour on the back face to remove noise.
+
+<img src="Images/pcb.png" alt="Alt text" width="700"/>
+
+
 ---
 
 ## Cart Screenshots
