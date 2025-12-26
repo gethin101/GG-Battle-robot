@@ -32,6 +32,40 @@ I will also add a button on the remote to control the servo motor that moves the
 
 
 ---
+
+## Cart Screenshots
+
+<img src="Images/cart1.png" alt="cart screenshot" width="600">
+<img src="Images/cart2.png" alt="cart screenshot" width="600">
+<img src="Images/cart3.png" alt="cart screenshot" width="600">
+<img src="Images/cart4.png" alt="cart screenshot" width="600">
+<img src="Images/cart5.png" alt="cart screenshot" width="900">
+<img src="Images/cart6.png" alt="cart screenshot" width="900">
+<img src="Images/cart7.png" alt="cart screenshot" width="1000">
+
+
+---
+
+## **Remote PCB:**
+
+**Solder:**
+- Battery wires to copper pad
+- Pico through hole
+- Buttons
+
+**Headers:**
+- RF module
+- Joystick
+- Boost converter
+
+
+Remote PCB design:
+
+**This was my first PCB design before I made it in KiCad**
+
+<img src="Images/remote_design.png" alt="Alt text" width="700"/>
+
+
 ## Components
 
 Here are the lists of components for my robot. I have also made a [full BOM](Components/Bill-Of-Materials.md)
@@ -71,37 +105,6 @@ with links to all the parts.
 
 ---
 
-## Cart Screenshots
-
-<img src="Images/cart1.png" alt="cart screenshot" width="600">
-<img src="Images/cart2.png" alt="cart screenshot" width="600">
-<img src="Images/cart3.png" alt="cart screenshot" width="600">
-<img src="Images/cart4.png" alt="cart screenshot" width="600">
-<img src="Images/cart5.png" alt="cart screenshot" width="900">
-<img src="Images/cart6.png" alt="cart screenshot" width="900">
-<img src="Images/cart7.png" alt="cart screenshot" width="1000">
-
-
----
-
-## **Remote PCB:**
-
-**Solder:**
-- Battery wires to copper pad
-- Pico through hole
-- Buttons
-
-**Headers:**
-- RF module
-- Joystick
-- Boost converter
-
-
-Remote PCB design:
-
-**This was my first PCB design before I made it in KiCad**
-
-<img src="Images/remote_design.png" alt="Alt text" width="700"/>
 
 
 ---
