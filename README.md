@@ -56,10 +56,11 @@ I then designed my remote PCB in KiCad with first the schematic showing how all 
 
 <img src="Images/schem.png" alt="Alt text" width="600"/>
 
-And then I run the ERC checker and moved on to the PCB design where I routed the modules, confirmed final placements and learnt how to make a GND pour on the back face to remove noise.
+And then I ran the ERC checker and moved on to the PCB design where I routed the modules, confirmed final placements and learnt how to make a GND pour on the back face to remove noise.
 
 <img src="Images/pcb.png" alt="Alt text" width="700"/>
 
+The KiCad project files & gerber.zip are both in **PCB/**
 
 ---
 
