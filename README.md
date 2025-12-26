@@ -50,7 +50,7 @@ Remote PCB design:
 
 **This was my first PCB design before I made it in KiCad**
 
-<img src="Images/remote_design.png" alt="Alt text" width="700"/>
+<img src="Images/remote_design.png" alt="Alt text" width="500"/>
 
 I then designed my remote PCB in KiCad with first the schematic showing how all the components are connected
 
