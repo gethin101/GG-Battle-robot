@@ -84,7 +84,7 @@ with links to all the parts.
 
 **List of components for remote:**
 
-- Raspberry pi pico 2 WH
+- Raspberry pi pico H
 - Joystick module
 - 433 MHz transmitter
 - 2xAA Battery pack
@@ -95,7 +95,7 @@ with links to all the parts.
 
 **List of components for robot:**
 
-- Raspberry pi pico 2WH
+- Raspberry pi pico H
 - 1.8" SPI LCD Display
 - SK6812 MINI-E RGBs
 - PAM8302 amplifier board
