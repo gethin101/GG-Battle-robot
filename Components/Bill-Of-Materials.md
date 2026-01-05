@@ -1,6 +1,7 @@
 ## Remote Components
 
 **Totals £51.97 but not factoring in any temporary deals and possible extra shipping costs**
+**Therefore applying for £55**
 
 **AliExpress -> £44.17**
 
