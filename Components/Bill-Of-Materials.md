@@ -2,9 +2,7 @@
 
 **Totals £63.73 but not factoring in any temporary deals and possible extra shipping costs**
 
-**AliExpress -> £25.23**
-
-**PiHut -> £15.40**
+**AliExpress -> £36.88**
 
 **Amazon -> £10.99**
 
@@ -13,7 +11,6 @@
 
 | Name | Use | Link | Price |
 |------|-----|------|-------|
-| Raspberry Pi Pico 2 WH | Will be removable from remote | [link](https://thepihut.com/products/raspberry-pi-pico-2-w?variant=54063378760065) | £7.70 |
 | Joystick module | Used to control the robot movement | [link](https://www.aliexpress.com/item/1005010212257095.html?spm=a2g0o.productlist.main.4.3be6196dzmvb2P&aem_p4p_detail=202512140144432788365537629100002190789&algo_pvid=7537bd39-dc4c-41d7-a683-5eaad0104159&algo_exp_id=7537bd39-dc4c-41d7-a683-5eaad0104159-3&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.66%210.45%21%21%216.01%214.09%21%402103956b17657054835868351e8e9a%2112000051540910813%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=QsdQjQrewpMZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010212257095%7C_p_origin_prod%3A&search_p4p_id=202512140144432788365537629100002190789_1) | £0.48 |
 | 433 MHz transmitter & reciever | Sends control signals to robot | [link](https://www.aliexpress.com/item/1005007239689710.html?spm=a2g0o.productlist.main.25.562e90dbxFI1Xr&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005007239689710%7C_p_origin_prod%3A&algo_pvid=252a526b-9aaa-430f-ae86-64bb34407fc3&algo_exp_id=252a526b-9aaa-430f-ae86-64bb34407fc3&pdp_ext_f=%7B%22order%22%3A%22207%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%214.67%210.76%21%21%2142.84%216.96%21%40211b430817657055324604445eab2a%2112000039917800063%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876) | £0.76 |
 | 2×AA battery pack | Powers the remote | [link](https://www.aliexpress.com/item/1005001750984235.html?spm=a2g0o.productlist.main.7.5f45201ekH1azH&algo_pvid=c7aa2370-6232-4feb-b52e-d8dd40f1c501&algo_exp_id=c7aa2370-6232-4feb-b52e-d8dd40f1c501-6&pdp_ext_f=%7B%22order%22%3A%22386%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.74%210.74%21%21%210.96%210.96%21%402103956b17657058090712988e8e9c%2112000017429460644%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=GHC6WV3RikNM&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005001750984235%7C_p_origin_prod%3A) | £0.74 |
@@ -31,7 +28,7 @@ Total = £20.93
 
 | Name | Use | Link | Price |
 |------|-----|------|-------|
-| Raspberry Pi Pico 2 WH | Microcontroller for robot | [link](https://thepihut.com/products/raspberry-pi-pico-2-w?variant=54063378760065) | £7.70 |
+| Raspberry Pi Pico H x2 | Microcontroller for robot | [link]https://www.aliexpress.com/item/1005009646610678.html?spm=a2g0o.cart.0.0.5ae238dab3a3Iv&mp=1&pdp_npi=6%40dis%21GBP%21GBP%204.29%21GBP%204.29%21%21GBP%204.29%21%21%21%40210390c217676417969677438e5314%2112000049755345589%21ct%21UK%21-1%21%212%210%21 | £11.65 |
 | 1.8" SPI LCD Display  | Screen for displaying info | [link](https://www.aliexpress.com/item/1005008721040252.html?spm=a2g0o.productlist.main.25.501f3237yQO86V&utparam-url=scene%3Asearch%7Cquery_from%3Apc_back_same_best%7Cx_object_id%3A1005008721040252%7C_p_origin_prod%3A&algo_pvid=443abcbf-c1e6-4a18-8161-e7e70124d21d&algo_exp_id=443abcbf-c1e6-4a18-8161-e7e70124d21d&pdp_ext_f=%7B%22order%22%3A%2222%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%216.58%210.76%21%21%2160.32%216.99%21%40211b629217657085416868348ee12b%2112000046389408254%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876) | £0.76 |
 | SK6812 MINI-E RGB | LED lights for my robot | [link](https://www.aliexpress.com/item/1005005186515165.html?spm=a2g0o.productlist.main.2.35706ab6e3eama&algo_pvid=11cf46b6-883e-46d2-a6aa-dd50d98c62ce&algo_exp_id=11cf46b6-883e-46d2-a6aa-dd50d98c62ce-1&pdp_ext_f=%7B%22order%22%3A%2240%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%212.63%210.76%21%21%213.42%210.99%21%40210384b917657091849576649e8b1e%2112000032026120161%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461876&curPageLogUid=Ic9KWqspO27Z&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005186515165%7C_p_origin_prod%3A) | £0.76 |
 | PAM8302 amplifier | Amplifier for the speaker on the robot | [link](https://www.aliexpress.com/item/1005010400102160.html?spm=a2g0o.productlist.main.12.34a1z7daz7daAy&algo_pvid=b82afe4e-0c00-4ae9-a2d2-8e9c62f24026&algo_exp_id=b82afe4e-0c00-4ae9-a2d2-8e9c62f24026-11&pdp_ext_f=%7B%22order%22%3A%222%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.34%210.34%21%21%213.10%213.10%21%4021038df617657094989558847e4310%2112000052283727666%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=hF06PHF2ul4R&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010400102160%7C_p_origin_prod%3A) | £0.34 |
