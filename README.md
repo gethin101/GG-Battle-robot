@@ -112,7 +112,7 @@ with links to all the parts.
 - 5V buck converter
 - Magnets for top & bottom chassis connection
 
-**My project should cost around £65 so I reckon it should be Tier 3**
+**My project should cost around £55 so I reckon it should be Tier 3**
 
 ---
 
