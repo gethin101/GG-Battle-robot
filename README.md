@@ -52,15 +52,23 @@ Remote PCB design:
 
 <img src="Images/remote_design.png" alt="Alt text" width="500"/>
 
-I then designed my remote PCB in KiCad with first the schematic showing how all the components are connected
+I then designed my remote PCB in KiCad with first the schematic showing how all the components are connected as seen below:
 
 <img src="Images/schem.png" alt="Alt text" width="600"/>
 
-And then I ran the ERC checker and moved on to the PCB design where I routed the modules, confirmed final placements and learnt how to make a GND pour on the back face to remove noise.
+**PCB:**
+I designed my remote PCB in KiCad. I made through hole pins for the pico where I will solder on female headers which will allow easy removal of the pico for the remote. Next, I added 3 small buttons that will solder straight onto the PCB. 
+I added two copper pads for the battery+ and battery- on the back side of the PCB so I can place the battery pack on the rear side of the remote.
+
+I added holes for header pins for the radio frequency transmitter device as well as for the joystick remote. Furthermore, I did the same for the 5V boost converter so it can be easily removed if there is any issues. 
+
+I added some silkscreen details onto my PCB such as my name, GitHub repo link and a small mechanical logo. I learnt how to add drill holes so my PCB can be secured onto a case and also learnt how to make a copper GND pour to reduce noise and for easy GND accessibility.
+
+This is one of the first PCBs I have designed, but it looks good to me and I ran the ERC and DRC checkers and go no errors ***(PCB image below)***
 
 <img src="Images/pcb.png" alt="Alt text" width="900"/>
 
-The KiCad project files & gerber.zip are both in **PCB/**
+The KiCad project files & gerber.zip are both in **PCB/**, and the PCB cart screenshot is below
 
 ---
 
