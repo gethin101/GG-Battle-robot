@@ -71,6 +71,9 @@ The KiCad project files & gerber.zip are both in **PCB/**
 <img src="Images/cart3.png" alt="cart screenshot" width="600">
 <img src="Images/cart4.png" alt="cart screenshot" width="600">
 <img src="Images/cart_pico.png" alt="cart screenshot" width="900">
+
+**Cost of PCB with shipping is $9.30 which is £6.89**
+
 <img src="Images/cart8.png" alt="cart screenshot" width="1000">
 
 
