@@ -54,10 +54,11 @@ Remote PCB design:
 
 I then designed my remote PCB in KiCad with first the schematic showing how all the components are connected as seen below:
 
-<img src="Images/schem.png" alt="Alt text" width="600"/>
+<img src="Images/schem.png" alt="Alt text" width="800"/>
 
 **PCB:**
-I designed my remote PCB in KiCad. I made through hole pins for the pico where I will solder on female headers which will allow easy removal of the pico for the remote. Next, I added 3 small buttons that will solder straight onto the PCB. 
+
+I designed my remote PCB in KiCad. I made through hole pins for the pico where I have to choice to either solder on female headers which will allow easy removal of the pico for the remote or to directly solder them on. Next, I added 3 small buttons that will solder straight onto the PCB. 
 I added two copper pads for the battery+ and battery- on the back side of the PCB so I can place the battery pack on the rear side of the remote.
 
 I added holes for header pins for the radio frequency transmitter device as well as for the joystick remote. Furthermore, I did the same for the 5V boost converter so it can be easily removed if there is any issues. 
