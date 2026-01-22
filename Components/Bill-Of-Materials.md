@@ -1,12 +1,6 @@
 ## Remote Components
 
-**Totals £51.97 but not factoring in any temporary deals and possible extra shipping costs**
-**Therefore applying for £55**
-
-**AliExpress -> £44.17**
-
-**JLCPCB -> £7.80**
-
+**Totals £54 or $72.82**
 
 | Name | Use | Link | Price |
 |------|-----|------|-------|
