@@ -1,5 +1,7 @@
 ## Remote Components
 
+**Note**: I had to make some changes to the BOM as prices had changed since the last project submission
+
 **Totals £49.45 or $67.45**
 
 | Name | Use | Link | Price | US |
