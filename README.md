@@ -75,10 +75,10 @@ The KiCad project files & gerber.zip are both in **PCB/**, and the PCB cart scre
 
 ## Cart Screenshots
 
-<img src="Images/cart1.png" alt="cart screenshot" width="600">
-<img src="Images/cart2.png" alt="cart screenshot" width="600">
-<img src="Images/cart3.png" alt="cart screenshot" width="600">
-<img src="Images/cart4.png" alt="cart screenshot" width="600">
+<img src="Images/Cart_1.png" alt="cart screenshot" width="600">
+<img src="Images/Cart_2.png" alt="cart screenshot" width="600">
+<img src="Images/Cart_3.png" alt="cart screenshot" width="600">
+<img src="Images/Cart_4.png" alt="cart screenshot" width="600">
 <img src="Images/cart_pcb.png" alt="cart screenshot" width="900">
 
 
