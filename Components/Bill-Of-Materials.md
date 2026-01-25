@@ -1,6 +1,6 @@
 ## Remote Components
 
-**Totals £74.05 or $101.01** with shipping factored in
+**Totals £82.32 or $112.29** with shipping factored in
 
 **Note**: I had to make some changes to the BOM as prices had changed since the last project submission
 
