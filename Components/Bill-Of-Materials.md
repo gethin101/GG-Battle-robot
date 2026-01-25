@@ -1,10 +1,11 @@
 ## Remote Components
 
+**Totals £49.45 or $67.45**
+
 **Note**: I had to make some changes to the BOM as prices had changed since the last project submission
 
 Also I have put a tiny bit more as you can see due to the fact there are some sales going on right now that end in a few days so I haven't factored them in (which is why the total prices is slightly less on the cart screenshots)
 
-**Totals £49.45 or $67.45**
 
 | Name | Use | Link | Price | US |
 |------|-----|------|-------|----|
