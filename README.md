@@ -74,10 +74,10 @@ Next, I added some silkscreen details onto my PCB such as my name, GitHub repo l
 
 I learnt how to add drill holes on the corners of my PCB so it has the option to be secured into a case and therefore will be more comfortable to use with nothing moving about. Furthermore, I also learnt how to make a copper GND pour which I have found out reduces noise on the PCB and allowed me to have better accessibility to the GND on the remote when I was designing and wiring it in KiCad.
 
-I am happy with my remote PCB and I ran the ERC and DRC checkers a few times, fixed all the issues and now it comes up with no errors when I run them.***(PCB image below)***
+I am happy with my remote PCB and I ran the ERC and DRC checkers a few times, fixed all the issues and now it comes up with no errors when I run them.
 
 
-The KiCad project files & gerber.zip are both in **PCB/**, and the PCB cart screenshot is below
+The KiCad project files & gerber.zip are both in **PCB/** and the PCB cart screenshot from JLCPCB is below
 
 ---
 
