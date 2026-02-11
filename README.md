@@ -56,7 +56,7 @@ I then designed my remote PCB in KiCad with first the schematic showing how all 
 
 <img src="Images/schem.png" alt="Alt text" width="800"/>
 
-**PCB:**
+**PCB design process:**
 
 I designed my remote PCB in KiCad. I made through-hole pins for the pico where I will have the choice to either solder on female headers which will allow easy removal of the pico for the remote or to directly solder them on. 
 This took some time to design as I wasn't sure on which approach would better fit my project, so I left it for my decision when I get the parts.
@@ -64,6 +64,9 @@ This took some time to design as I wasn't sure on which approach would better fi
 Next, I added 3 small buttons that I will solder straight onto the PCB. These will be used as control buttons for the robot where I will program them to sent certains signals to the robot, for example to move the axe head up or down with the servo motor, or to carry out pre-programmed movement plans with the TT motors and wheels.
 
 I added two copper pads for the battery+ and battery- to my PCB to power the remote and I ended up decising to put these on the back side of the PCB so it leaves more space on the front and so I can more easily secure the battery pack on the rear side of the remote, with plently of space to move it around before deciding the final position.
+
+
+<img src="Images/pcb.png" alt="Alt text" width="900"/>
 
 I added holes in my PCB where I will solder on female header pins for the radio frequency transmitter device so it can be easily removed if I come across any issues. I repeated this process on different parts of the remote for the joystick device and 5V boost converter to allow for efficient and easy assembly once I'm ready to build my robot. I first went for through-hole pins in my original design but altered it to have header pins as it will be easier to assemble and tinker with.
 
@@ -73,7 +76,6 @@ I learnt how to add drill holes on the corners of my PCB so it has the option to
 
 I am happy with my remote PCB and I ran the ERC and DRC checkers a few times, fixed all the issues and now it comes up with no errors when I run them.***(PCB image below)***
 
-<img src="Images/pcb.png" alt="Alt text" width="900"/>
 
 The KiCad project files & gerber.zip are both in **PCB/**, and the PCB cart screenshot is below
 
