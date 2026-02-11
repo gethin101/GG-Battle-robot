@@ -58,14 +58,20 @@ I then designed my remote PCB in KiCad with first the schematic showing how all 
 
 **PCB:**
 
-I designed my remote PCB in KiCad. I made through hole pins for the pico where I have to choice to either solder on female headers which will allow easy removal of the pico for the remote or to directly solder them on. Next, I added 3 small buttons that will solder straight onto the PCB. 
-I added two copper pads for the battery+ and battery- on the back side of the PCB so I can place the battery pack on the rear side of the remote.
+I designed my remote PCB in KiCad. I made through-hole pins for the pico where I will have the choice to either solder on female headers which will allow easy removal of the pico for the remote or to directly solder them on. 
+This took some time to design as I wasn't sure on which approach would better fit my project, so I left it for my decision when I get the parts.
 
-I added holes for header pins for the radio frequency transmitter device as well as for the joystick remote. Furthermore, I did the same for the 5V boost converter so it can be easily removed if there is any issues. 
+Next, I added 3 small buttons that I will solder straight onto the PCB. These will be used as control buttons for the robot where I will program them to sent certains signals to the robot, for example to move the axe head up or down with the servo motor, or to carry out pre-programmed movement plans with the TT motors and wheels.
 
-I added some silkscreen details onto my PCB such as my name, GitHub repo link and a small mechanical logo. I learnt how to add drill holes so my PCB can be secured onto a case and also learnt how to make a copper GND pour to reduce noise and for easy GND accessibility.
+I added two copper pads for the battery+ and battery- to my PCB to power the remote and I ended up decising to put these on the back side of the PCB so it leaves more space on the front and so I can more easily secure the battery pack on the rear side of the remote, with plently of space to move it around before deciding the final position.
 
-This is one of the first PCBs I have designed, but it looks good to me and I ran the ERC and DRC checkers and go no errors ***(PCB image below)***
+I added holes in my PCB where I will solder on female header pins for the radio frequency transmitter device so it can be easily removed if I come across any issues. I repeated this process on different parts of the remote for the joystick device and 5V boost converter to allow for efficient and easy assembly once I'm ready to build my robot. I first went for through-hole pins in my original design but altered it to have header pins as it will be easier to assemble and tinker with.
+
+Next, I added some silkscreen details onto my PCB such as my name, GitHub repo link and a small mechanical logo. This added a bit more personality to my remote and will allow for it to be easier to distinguish from other robots (ik this is only the remote and will most likely be covered later on, but it was fun to mess about with)
+
+I learnt how to add drill holes on the corners of my PCB so it has the option to be secured into a case and therefore will be more comfortable to use with nothing moving about. Furthermore, I also learnt how to make a copper GND pour which I have found out reduces noise on the PCB and allowed me to have better accessibility to the GND on the remote when I was designing and wiring it in KiCad.
+
+I am happy with my remote PCB and I ran the ERC and DRC checkers a few times, fixed all the issues and now it comes up with no errors when I run them.***(PCB image below)***
 
 <img src="Images/pcb.png" alt="Alt text" width="900"/>
 
