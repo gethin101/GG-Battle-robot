@@ -7,7 +7,7 @@ I will also use a 1.8" SPI LCD Display for the robot to display information on t
 
 Also I will have sound effects for my robot. I will do this through a PAM8302 amplifier board and 8Ω 2W speaker. The amplifier board will go into the breadboard & the speaker will plug directly into the PAM8302.
 
-It will be powered by AA batteries, the actual robot will be connected using a breadboard & jumper wires, but I want to create a custom PCB for my remote. I will design the PCB in KiCad, also with female sockets so I can remove modules from the remote.
+**It will be powered by AA batteries, the actual robot will be connected using a breadboard & jumper wires, but I want to create a custom PCB for my remote. I will design the PCB in KiCad, also with female sockets so I can remove modules from the remote.**
 
 **Note:** I will need to connect the grounds on either side together so they have the same voltage reference point.
 
