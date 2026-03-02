@@ -102,7 +102,7 @@ The KiCad project files & gerber.zip are both in **PCB/** and the PCB cart scree
 
 ## Components
 
-Here are the lists of components for my robot. I have also made a [full BOM](Components/Bill-Of-Materials.md)
+Here are the lists of components for my robot. I have also made a [full BOM](BOM.md)
 with links to all the parts.
 
 **List of components for remote:**
