@@ -5,11 +5,11 @@ It runs on a Raspberry pi pico H, TT motors, L298N motor drivers, and a servo mo
 
 I am also using a 1.8" SPI LCD Display for the robot to display information on the front of the robot and SK6812 MINI-E RGB leds for the back of the robot. These will both be powered by being plugged into the breadboard in the robot using the pins and jumper wires.
 
-Also I will have sound effects for my robot. I will do this through a PAM8302 amplifier board and 8Ω 2W speaker. The amplifier board will go into the breadboard & the speaker will plug directly into the PAM8302.
+Also I have sound effects for my robot. I will do this through a PAM8302 amplifier board and 8Ω 2W speaker. The amplifier board will go into the breadboard & the speaker will plug directly into the PAM8302.
 
-**It will be powered by AA batteries, the actual robot will be connected using a breadboard & jumper wires, but I want to create a custom PCB for my remote. I will design the PCB in KiCad, also with female sockets so I can remove modules from the remote.**
+**It is powered by AA batteries, the actual robot will be connected using a breadboard & jumper wires, but I wanted to create a custom PCB for my remote. I designed the PCB in KiCad, also with female sockets so I can remove modules from the remote.**
 
-**Note:** I will need to connect the grounds on either side together so they have the same voltage reference point.
+**Note:** I had to connect the grounds on either side together so they have the same voltage reference point.
 
 My weapon system consists of a servo motor embedded on the underside of the top half of the chassis that will swing the PLA axe weapon down to hit, and back up to rest on the slanted design of the robot.
 
@@ -26,9 +26,9 @@ I designed my robot with inspiration from Thor in Robot Wars with the axe weapon
 
 ## Control
 
-I will control my robot through the use of the PCB remote which will be in a PLA remote case. There will be a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. 
+I control my robot through the use of the PCB remote. There is a joystick module that with the use of the RF transmitter, will control the TT motors on the robot and therefore the movement of the wheels. 
 
-I will also add a button on the remote to control the servo motor that moves the PLA axe weapon and I will also add a few buttons that will likely carry out pre-programmed movement plans, display different info on the robot's screen and play sound effects through the speakers.
+I have also added a button on the remote to control the servo motor that moves the PLA axe weapon and also a few buttons that play sound effects and display custom data on the display.
 
 
 ---
