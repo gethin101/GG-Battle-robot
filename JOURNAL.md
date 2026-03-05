@@ -62,6 +62,7 @@ _Time spent: 0.5h_
 Added lots of more detail on the process behind designing the remote PCB for my robot. I talked about some issues I ran into as well as some design choices I made.
 
 Repo preview:
+
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTAyMzY3LCJwdXIiOiJibG9iX2lkIn19--9a51b445670fbb7525b7bb1d8070d6e003ba5920/image.png)
   
 
