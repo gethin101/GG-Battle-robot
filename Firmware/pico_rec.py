@@ -1,36 +1,40 @@
-
-from machine import Pin
 import time
+import board
+import busio
 
 
-IN1 = Pin(2, Pin.OUT)
-IN2 = Pin(3, Pin.OUT)
-IN3 = Pin(4, Pin.OUT)
-IN4 = Pin(5, Pin.OUT)
+uart = busio.UART(board.GP0, board.GP1, baudrate=9600, timeout=0.1)
 
-def motor_forward():
-    IN1.high()
-    IN2.low()
-    IN3.high()
-    IN4.low()
+def parse_packet(packet):
+    """
+    Expected format: "x,y,btn"
+    Example: "10,-40,1"
+    """
+    try:
+        parts = packet.split(",")
+        if len(parts) != 3:
+            return None
 
-def motor_stop():
-    IN1.low()
-    IN2.low()
-    IN3.low()
-    IN4.low()
+        x = int(parts[0])
+        y = int(parts[1])
+        btn = int(parts[2])
 
+        return x, y, btn
+    except:
+        return None
 
-def rf_receive():
-
-    return "F"  
+print("RF Receiver Ready")
 
 while True:
-    cmd = rf_receive()
+    if uart.in_waiting > 0:
+        try:
+            raw = uart.readline().decode().strip()
+            data = parse_packet(raw)
 
-    if cmd == "F":
-        motor_forward()
-    else:
-        motor_stop()
+            if data:
+                x, y, btn = data
+                print(f"{x},{y},{btn}")  
+        except:
+            pass
 
-    time.sleep(0.1)
+    time.sleep(0.01)
