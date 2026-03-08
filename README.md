@@ -138,7 +138,9 @@ with links to all the parts.
 **My project should cost around £80 or $110 so I reckon it should be just Tier 2**
 
 ---
+This was my first hand sketch of the component positioning in my robot but obviously I've changed bits of it
 
+<img src="Images/IMG_2616.jpeg" alt="wiring diagram" width="300"/>
 
 
 ---
