@@ -150,7 +150,7 @@ I originally designed it like this with 2 axe weapons and patterns but have chan
 <img src="Images/robot_fusion1.png" alt="Alt text" width="300"/>
 
 
-This version is the final concept and the files are in **Images/**
+This version is the final concept for my robot chassis
 
 <img src="Images/robot_design_image.png" alt="Alt text" width="700"/>
 
