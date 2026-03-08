@@ -233,9 +233,9 @@ Total = £35.81 or $48.85
 
 ## CircuitPython firmware
 
-- I will need to flash a CircuitPython .uf2 onto my picos
+- I will need to flash [CircuitPython](/Firmware/adafruit-circuitpython-raspberry_pi_pico2-en_GB-10.1.3.uf2) onto my picos
 - Install circuitpython libraries .mpys
-- Upload the different code.pys to my picos
+- Upload the different [code.pys](Firmware/) to my picos
 - Test the firmwares are working
 
 
