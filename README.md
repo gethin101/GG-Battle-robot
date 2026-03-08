@@ -140,7 +140,11 @@ with links to all the parts.
 ---
 This was my first hand sketch of the component positioning in my robot but obviously I've changed bits of it
 
-<img src="Images/IMG_2616.jpeg" alt="wiring diagram" width="700"/>
+<img src="Images/IMG_2616.jpeg" alt="original wiring diagram" width="700"/>
+
+This is a (bit messy) wiring diagram for the robot breadboard system
+
+<img src="Images/robot_wiring.png" alt="wiring diagram robot" width="700"/>
 
 
 ---
