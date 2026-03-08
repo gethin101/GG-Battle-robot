@@ -1,7 +1,5 @@
 ## Remote Components
 
-**Will also probably need funds for 3D printing but I have left it for now**
-
 **Totals £82.32 or $112.29** with shipping factored in
 
 **Note**: I had to make some changes to the BOM as prices had changed since the last project submission
