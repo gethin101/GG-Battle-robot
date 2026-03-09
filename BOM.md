@@ -1,6 +1,6 @@
 ## Remote Components
 
-**Totals £82.32 or $112.29** with shipping factored in
+**Totals £82.32 or $112.29** with shipping factored in **(OLD)**
 
 | Name | Use | Link | Price | US |
 |------|-----|------|-------|----|
