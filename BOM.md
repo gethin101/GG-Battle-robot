@@ -2,6 +2,8 @@
 
 **Totals £82.32 or $112.29** with shipping factored in **(OLD)**
 
+**Now totals £78.20 or $104.30**
+
 | Name | Use | Link | Price | US |
 |------|-----|------|-------|----|
 | Joystick module | Used to control the robot movement | [link](https://www.aliexpress.com/item/1005010212257095.html?spm=a2g0o.productlist.main.4.3be6196dzmvb2P&aem_p4p_detail=202512140144432788365537629100002190789&algo_pvid=7537bd39-dc4c-41d7-a683-5eaad0104159&algo_exp_id=7537bd39-dc4c-41d7-a683-5eaad0104159-3&pdp_ext_f=%7B%22order%22%3A%2213%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21GBP%210.66%210.45%21%21%216.01%214.09%21%402103956b17657054835868351e8e9a%2112000051540910813%21sea%21UK%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac7b67d0a%3Bm03_new_user%3A-29895&curPageLogUid=QsdQjQrewpMZ&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010212257095%7C_p_origin_prod%3A&search_p4p_id=202512140144432788365537629100002190789_1) | £0.49 | $0.67 |
