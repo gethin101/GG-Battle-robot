@@ -2,7 +2,7 @@ Name,Use,Link,Price,US
 Joystick module,Used to control the robot movement,https://www.aliexpress.com/item/1005010212257095.html,£0.49,$0.67
 433 MHz transmitter & receiver,Sends control signals to robot,https://www.aliexpress.com/item/1005007239689710.html,£0.76,£1.04
 2×AA battery pack,Powers the remote,https://www.aliexpress.com/item/1005001750984235.html,£0.76,$1.04
-Custom PCB,Will have the joystick, transmitter, Pico & boost converter,https://jlcpcb.com/,£8.28,$11.29
+Custom PCB,Will have the joystick - transmitter - Pico & boost converter,https://jlcpcb.com/,£8.28,$11.29
 Buttons,Used for weapon control (SMD),https://www.aliexpress.com/item/1005005279088080.html,£0.62,$0.85
 Sockets 1,Allow me to remove pico (20 pin),https://www.aliexpress.com/item/1005003610333849.html,£0.76,$1.04
 Sockets 2,(1x4 pin) & (1x5 pin),https://www.aliexpress.com/item/4001198421663.html,£1.41,$1.92
