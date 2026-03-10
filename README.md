@@ -135,7 +135,7 @@ with links to all the parts.
 - 5V buck converter
 - Magnets for top & bottom chassis connection
 
-**My project should cost around £80 or $110 so I reckon it should be just Tier 2**
+**My project should cost around $104 so should be tier 2**
 
 ---
 This was my first hand sketch of the component positioning in my robot but obviously I've changed bits of it
@@ -178,7 +178,7 @@ Base bottom of the robot without top half of the chassis
 ---
 # BOM
 
-See [BOM](/BOM.md)
+See [BOM](/BOM.csv)
 
 
 
