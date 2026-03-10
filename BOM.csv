@@ -1,0 +1,23 @@
+Name,Use,Link,Price,US
+Joystick module,Used to control the robot movement,https://www.aliexpress.com/item/1005010212257095.html,£0.49,$0.67
+433 MHz transmitter & receiver,Sends control signals to robot,https://www.aliexpress.com/item/1005007239689710.html,£0.76,£1.04
+2×AA battery pack,Powers the remote,https://www.aliexpress.com/item/1005001750984235.html,£0.76,$1.04
+Custom PCB,Will have the joystick, transmitter, Pico & boost converter,https://jlcpcb.com/,£8.28,$11.29
+Buttons,Used for weapon control (SMD),https://www.aliexpress.com/item/1005005279088080.html,£0.62,$0.85
+Sockets 1,Allow me to remove pico (20 pin),https://www.aliexpress.com/item/1005003610333849.html,£0.76,$1.04
+Sockets 2,(1x4 pin) & (1x5 pin),https://www.aliexpress.com/item/4001198421663.html,£1.41,$1.92
+5V boost converter,Steps up 3V from AA pack to 5V,https://www.aliexpress.com/item/1005006361814667.html,£0.56,$0.76
+Pi Pico welding,Microcontroller for robot,https://www.aliexpress.com/item/1005003740742365.html | https://www.aliexpress.com/item/1005008948799927.html,£1.54,$2.05
+1.8" SPI LCD Display,Screen for displaying info,https://www.aliexpress.com/item/1005008721040252.html,£3.11,$4.24
+SK6812 MINI-E RGB,LED lights for my robot,https://www.aliexpress.com/item/1005005186515165.html,£0.76,$1.04
+PAM8302 amplifier,Amplifier for the speaker on the robot,https://www.aliexpress.com/item/1005010400102160.html,£0.34,$0.46
+8Ω 2W round speaker,Speaker to play sound effects on the robot,https://www.aliexpress.com/item/1005007348631655.html,£1.62,$2.21
+2× L298N motor drivers,For the TT motors,https://www.aliexpress.com/item/1005008277888797.html,£5.00,$6.82
+4× TT motors,Motors for wheels,https://www.aliexpress.com/item/1005007805394977.html,£4.39,$5.99
+MG996 servo (360),Moves the PLA axe weapon,https://www.aliexpress.com/item/1005009497648073.html,£0.76,$1.04
+6×AA battery pack,Powers motors and components,https://www.aliexpress.com/item/1005004798582970.html,£0.76,$1.04
+Breadboard,Where everything will be connected,https://www.aliexpress.com/item/1005008787753880.html,£0.76,$1.04
+Male header pins,(L7.5) for boost converter,https://www.aliexpress.com/item/1005008747214913.html,£0.76,$1.04
+Jumper wires,Connect Pico, drivers, servo & rf receiver (20cm),https://www.aliexpress.com/item/1005006616309305.html,£3.28,$4.47
+Magnets to connect lid and main chassis,8mm x 3mm option - need holes in chassis,https://www.aliexpress.com/item/1005010051950544.html,£0.76,$1.04
+5V buck converter,Steps down 9V battery to 5V,https://www.aliexpress.com/item/1005005305772411.html,£4.89,$6.67
