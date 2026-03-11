@@ -200,7 +200,33 @@ See [BOM](/BOM.csv)
 - Test the firmwares are working
 
 
+# Blueprint requirements
+
+- [✅] A short description of what your project is  
+- [✅] A couple of sentences on how to use your project  
+- [✅] A couple of sentences on why you made the project  
+
+- [✅ ] Screenshot of a full 3D model of your project  
+- [✅ ] Screenshot of your PCB (if applicable)  
+- [✅ ] Wiring diagram (if any wiring is not on a PCB)  
+- [✅] Bill of Materials (BOM) in table format at the end of the README, with links [BOM](/BOM.csv)
+
+- [✅] Fully original, customized design (not a direct copy of any guide)  
+- [✅] Complete CAD assembly including all components (electronics included)  
+- [✅] Firmware present (even if untested)  
+- [✅] Design sanity‑checked with someone else  approved by [@LoganPeterson](https://hackclub.enterprise.slack.com/team/U079WLY0HLY)
+
+- [✅] BOM in CSV format in the root directory, with links
+- [✅] PCB source files (.kicad_pro, .kicad_sch, gerbers.zip, etc.) if applicable  
+- [✅] A .STEP file of the full 3D CAD model including electronics  
+- [✅] Source CAD files (.f3d, .FCStd, etc., or OnShape public link in README)  
+- [✅] All other project files included (firmware, libraries, references, etc.)  
+- [✅] Repository organized into readable, logical folders  
+
+> ⚠️ **Important:** Missing a complete .STEP file with all electronics and CAD will result in project rejection. ✅
+
+
 ## 📝 License
-This project is open-source under the MIT License, was designed during the Hackclub Blueprint project in 2025 and was created by [@gethin101](https://github.com/gethin101)
+This project is open-source under the MIT License and was designed & built during Hackclub Blueprint 2025-26 by [@gethin101](https://github.com/gethin101)
 
 
