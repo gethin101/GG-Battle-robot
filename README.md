@@ -180,6 +180,8 @@ Base bottom of the robot without top half of the chassis
 ---
 # BOM
 
+**Please note that I am requesting $100 and I will pay for the rest myself**
+
 See [BOM](/BOM.csv)
 
 
