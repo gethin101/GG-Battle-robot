@@ -79,6 +79,8 @@ I am happy with my remote PCB and I ran the ERC and DRC checkers a few times, fi
 
 The KiCad project files & gerber.zip are both in **PCB/** and the PCB cart screenshot from JLCPCB is below
 
+<img src="Images/remote_case.png" alt="Alt text" width="900"/>
+
 ---
 
 ## Cart Screenshots
