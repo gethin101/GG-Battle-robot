@@ -87,7 +87,8 @@ The KiCad project files & gerber.zip are both in **PCB/** and the PCB cart scree
 
 **Here are the cart screenshots for all of my components. I have logged the prices exactly, but there are some discounts and sales on atm that are ending soon so it may end up costing a bit more.**
 
-
+<details>
+<summary>Click to see cart screenshots</summary>
 <img src="Images/Cart_1.png" alt="cart screenshot" width="600">
 
 <img src="Images/Cart_2.png" alt="cart screenshot" width="600">
@@ -97,6 +98,9 @@ The KiCad project files & gerber.zip are both in **PCB/** and the PCB cart scree
 <img src="Images/Cart_4.png" alt="cart screenshot" width="600">
 
 <img src="Images/cart_pcb.png" alt="cart screenshot" width="900">
+</details>
+
+
 
 
 ---
