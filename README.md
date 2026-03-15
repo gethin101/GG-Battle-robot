@@ -172,6 +172,8 @@ Showing servo motor setup with axe and TT motors
 
 <img src="Images/robot_components_exposed.png" alt="Alt text" width="700"/>
 
+<img src="Images/top_slicer.png" alt="Alt text" width="700"/>
+
 
 Base bottom of the robot without top half of the chassis
 
